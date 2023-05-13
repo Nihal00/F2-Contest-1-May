@@ -30,7 +30,7 @@ function addData() {
     id: 4,
     name: "Susan",
     age: "20",
-    marks: 45
+    marks: 57
   }
   arr.push(newStudent);
   console.log(arr);
