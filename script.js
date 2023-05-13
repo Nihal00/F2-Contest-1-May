@@ -28,9 +28,9 @@ function addData() {
   //Write your code here, just console.log
   let newStudent = {
     id: 4,
-    name: "Susan",
+    name: "susan",
     age: "20",
-    marks: 57
+    marks: 45
   }
   arr.push(newStudent);
   console.log(arr);
