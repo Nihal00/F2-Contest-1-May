@@ -49,7 +49,7 @@ function concatenateArray() {
     { id: 5, name: "Rajinikanth", age: "21", marks: 100 },
     { id: 6, name: "Amitabh", age: "25", marks: 89 },
     { id: 7, name: "kiran", age: "27", marks: 49 },
-  ]
+  ];
 
   arr = arr.concat(newArray);
 
