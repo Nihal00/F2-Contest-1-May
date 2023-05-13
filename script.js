@@ -31,7 +31,7 @@ function addData() {
     name: "susan",
     age: "20",
     marks: 45
-  }
+  };
   arr.push(newStudent);
   console.log(arr);
 }
